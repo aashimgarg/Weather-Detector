@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Weather-Detector/static/css/main.39c05e46.chunk.css",
+    "main.js": "/Weather-Detector/static/js/main.01fd53ee.chunk.js",
+    "main.js.map": "/Weather-Detector/static/js/main.01fd53ee.chunk.js.map",
+    "runtime-main.js": "/Weather-Detector/static/js/runtime-main.a49bffc6.js",
+    "runtime-main.js.map": "/Weather-Detector/static/js/runtime-main.a49bffc6.js.map",
+    "static/css/2.8dded22f.chunk.css": "/Weather-Detector/static/css/2.8dded22f.chunk.css",
+    "static/js/2.bcc9511c.chunk.js": "/Weather-Detector/static/js/2.bcc9511c.chunk.js",
+    "static/js/2.bcc9511c.chunk.js.map": "/Weather-Detector/static/js/2.bcc9511c.chunk.js.map",
+    "index.html": "/Weather-Detector/index.html",
+    "precache-manifest.ab9e8629ce5ab182a2b4ddff0a882932.js": "/Weather-Detector/precache-manifest.ab9e8629ce5ab182a2b4ddff0a882932.js",
+    "service-worker.js": "/Weather-Detector/service-worker.js",
+    "static/css/2.8dded22f.chunk.css.map": "/Weather-Detector/static/css/2.8dded22f.chunk.css.map",
+    "static/css/main.39c05e46.chunk.css.map": "/Weather-Detector/static/css/main.39c05e46.chunk.css.map",
+    "static/js/2.bcc9511c.chunk.js.LICENSE.txt": "/Weather-Detector/static/js/2.bcc9511c.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/Weather-Detector/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/App.css": "/Weather-Detector/static/media/storm.f9a5512a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a49bffc6.js",
+    "static/css/2.8dded22f.chunk.css",
+    "static/js/2.bcc9511c.chunk.js",
+    "static/css/main.39c05e46.chunk.css",
+    "static/js/main.01fd53ee.chunk.js"
+  ]
+}
